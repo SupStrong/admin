@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # admincode
 
 > A Vue.js project
@@ -29,7 +28,3 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-=======
-# admin
-前端pc
->>>>>>> 0a3570f7a55933a64e0e79b3c120bf2c6117ae1d
